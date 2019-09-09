@@ -9,5 +9,8 @@ public class TextActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
+        //todo
+        //你是谁的的啦
+     
     }
 }
