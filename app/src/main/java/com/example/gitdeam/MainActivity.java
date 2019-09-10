@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     public void startTextActivity(View view) {
       startActivity(new Intent(this, oneActivity.class));
         Toast.makeText(this,"你是不是",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"你是不是",Toast.LENGTH_LONG).show();
 
     }
 }
