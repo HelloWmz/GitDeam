@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.e("test","111213221");
+        Log.e("test","111213221");
     }
 
     public void startTextActivity(View view) {

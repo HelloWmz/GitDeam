@@ -13,5 +13,6 @@ public class oneActivity extends AppCompatActivity {
         //todo
         //你是谁的的啦
         Toast.makeText(this,"你是不是",Toast.LENGTH_LONG);
+        Toast.makeText(this,"你是不是",Toast.LENGTH_LONG);
     }
 }
