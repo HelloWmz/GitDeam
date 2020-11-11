@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"sadadsada",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"你是不是",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"你是不是",Toast.LENGTH_LONG).show();
+        Log.e("test","new new2222wenwewe");
         Log.e("test","new new wenwewe");
     }
 }
