@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("test","111213221");
         Log.e("test","new new wenwewe");
         Log.e("test","分支二本地");
+        Log.e("test","分支22221111二本地");
 
     }
 
