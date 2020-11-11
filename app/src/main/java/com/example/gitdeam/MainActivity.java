@@ -40,5 +40,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("test","new new wenwewe");
         Log.e("test","new new 111wenwewe");
         Log.e("test","new new1111 wenwewe");
+        Log.e("test","new new 111wenwewe");
+        Log.e("test","new new1111 wenwewe");
     }
 }
